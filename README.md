@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePetsku
 - 👀 I’m interested in mechatronics and simracing
-- 🌱 I’m currently learning Arduino
+- 🌱 I’m currently learning Embedded Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
